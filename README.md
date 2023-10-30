@@ -11,7 +11,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami-saastamoinen&show_icons=true&theme=dark&locale=en&layout=compact" alt="sami-saastamoinen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-saastamoinen&show_icons=true&theme=dark&locale=en" alt="sami-saastamoinen" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-saastamoinen&show_icons=true&theme=dark&locale=en" alt="sami-saastamoinen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-saastamoinen&theme=dark" alt="sami-saastamoinen" /></p>
 
