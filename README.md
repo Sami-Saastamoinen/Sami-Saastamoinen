@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami Saastamoinen</h1>
-<h3 align="center">A passionate SWE Student from Finland</h3>
-
-- 🌱 I’m currently learning: **Tailwind CSS & couple Software Project courses**
+<h3 align="center">A passionate SWE Graduate from Finland</h3
 
 - 📫 How to reach me: **sami.saastamoinen0@gmail.com**
 
